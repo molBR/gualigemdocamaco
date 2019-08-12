@@ -1,7 +1,7 @@
 
 const dictionary = ['A','a','E','e','I','i','O','o','U','u'];
 const dicAdd = ['N','n','M','m','r','R','s','S'];
-let linguagem = "ai";
+let linguagem = "ai ";
 linguagem = linguagem.toLowerCase();
 let lingSep = linguagem.split(" ");
 let gualigem = [];
